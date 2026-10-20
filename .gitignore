@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+# Raw Goodreads export stays local; only the cleaned src/data/books.json is committed.
+*.csv
+scripts/.cover-cache.json
