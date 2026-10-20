@@ -1,6 +1,9 @@
 # 📚 Aswathy's Bookshelf
 
-Every book I've read, grouped by year, built from my Goodreads library.
+Every book I've read, built from my Goodreads library.
+
+- **Dashboard** (`#/`): books read, pages, ratings, author leaderboard, series, highlights.
+- **Library** (`#/library/<year>`): one page per reading year, with tabs, search and previous/next.
 
 Built with Vite + React + TypeScript + Tailwind CSS, deployed to GitHub Pages.
 
